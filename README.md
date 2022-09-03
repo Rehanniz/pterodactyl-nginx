@@ -1,1 +1,3 @@
 # pterodactyl-nginx
+
+self explanatory
